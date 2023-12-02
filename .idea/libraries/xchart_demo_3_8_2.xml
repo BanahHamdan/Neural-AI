@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="xchart-demo-3.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/xchart-3.8.2/xchart-3.8.2/xchart-demo-3.8.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/xchart-3.8.2/xchart-3.8.2/xchart-3.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jfreechart-1.0.19/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar!/" />
+      <root url="file://$PROJECT_DIR$/jfreechart-1.0.19/jfreechart-1.0.19/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/XChart-developGITHUB/XChart-develop/xchart/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/XChart-developGITHUB/XChart-develop/xchart/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/XChart-develop.zip!/XChart-develop/xchart-demo/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/XChart-develop.zip!/XChart-develop/xchart-demo/src/test/java" />
+      <root url="jar://$USER_HOME$/Downloads/XChart-develop.zip!/XChart-develop/xchart/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/XChart-develop.zip!/XChart-develop/xchart/src/test/java" />
+      <root url="file://$PROJECT_DIR$/jfreechart-1.5.3/src/main/java" />
+      <root url="file://$PROJECT_DIR$/jfreechart-1.5.3/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/jfreechart-1.0.19/jfreechart-1.0.19/lib" recursive="false" />
+  </library>
+</component>
